@@ -1,5 +1,5 @@
 # Duck Hunt
 
-Game made in python using [PyGame](https://pypi.org/project/pygame/) module.
+Game made in python using [`PyGame`](https://pypi.org/project/pygame/) module.
 
 ![game](gameplay.png)
